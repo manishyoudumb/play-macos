@@ -104,7 +104,7 @@ For example:
 
 ## Algorithm
 
-### Layer By Layer (层先法)
+### Layer By Layer
 
 - [x] The First Layer Edges |
 - [x] The First Layer Corners |
