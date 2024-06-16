@@ -69,7 +69,7 @@ const terminal: TerminalData[] = [
                 target="_blank"
                 rel="noreferrer"
               >
-                xiaohan-zou
+                Manish Kumar Jha
               </a>
             </li>
            
