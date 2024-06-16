@@ -32,7 +32,7 @@ const bear: BearData[] = [
       {
         id: "portfolio-macos",
         title: "Portfolio macOS",
-        file: "https://github1s.com/manishyoudumb/play-macos/blob/main/README.md",
+        file: "public/readme/macos.md",
         icon: "i-ri:gamepad-line",
         excerpt: "My portfolio website simulating macOS's GUI...",
         link: "https://github.com/manishyoudumb/play-macos"
@@ -41,7 +41,7 @@ const bear: BearData[] = [
       {
         id: "cube-solver",
         title: "Cube Solver",
-        file: "https://github1s.com/manishyoudumb/cube.js/blob/main/README.md",
+        file: "public/readme/justacube.md",
         icon: "i-bx:cube",
         excerpt: "A rubik's cube solver (layer-by-layer & two-phase)...",
         link: "https://cube-keir.vercel.app"
