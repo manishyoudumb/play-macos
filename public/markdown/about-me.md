@@ -17,7 +17,7 @@ Hey there! You found me :) A lost dragon in this paradoxial world.
 
 Contact me by:
 
-- Email: [officiallymanishh@gmail.com](mailto:renovamenzxh@gmail.com)
-- Github: [@MAnishyoudumb](https://github.com/manishyoudumb)
+- Email: [mailto:manish](mailto:officiallymanishh@gmail.com)
+- Github: [@manishyoudumb](https://github.com/manishyoudumb)
 - Linkedin: [Manish Kummar Jha](https://www.linkedin.com/in/mxnish)
 

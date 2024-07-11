@@ -13,7 +13,7 @@ const bear: BearData[] = [
         icon: "i-la:dragon",
         excerpt: "Hey there! I'm a dragon lost in human world..."
       },
-    
+
       {
         id: "about-site",
         title: "About This Site",
@@ -28,7 +28,6 @@ const bear: BearData[] = [
     title: "Projects",
     icon: "i-octicon:repo",
     md: [
-
       {
         id: "portfolio-macos",
         title: "Portfolio macOS",
@@ -37,7 +36,7 @@ const bear: BearData[] = [
         excerpt: "My portfolio website simulating macOS's GUI...",
         link: "https://github.com/manishyoudumb/play-macos"
       },
-      
+
       {
         id: "cube-solver",
         title: "Cube Solver",
@@ -45,6 +44,14 @@ const bear: BearData[] = [
         icon: "i-bx:cube",
         excerpt: "A rubik's cube solver (layer-by-layer & two-phase)...",
         link: "https://cube-keir.vercel.app"
+      },
+      {
+        id: "play-maya",
+        title: "Maya",
+        file: "/readme/maya.md",
+        icon: "i-ri:gamepad-line",
+        excerpt: "That one minimalist LLM assistant I'd love to have at my place!",
+        link: "https://github.com/manishyoudumb/play-maya"
       }
     ]
   }
