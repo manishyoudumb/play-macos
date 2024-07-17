@@ -52,6 +52,14 @@ const bear: BearData[] = [
         icon: "i-ri:gamepad-line",
         excerpt: "That one minimalist LLM assistant I'd love to have at my place!",
         link: "https://github.com/manishyoudumb/play-maya"
+      },
+      {
+        id: "rustytasks",
+        title: "RustyTasks",
+        file: "/readme/rustytasks.md",
+        icon: "i-bx:cube",
+        excerpt: "A command-line interface (CLI) application for managing todo lists....",
+        link: "https://github.com/manishyoudumb/rustytasks"
       }
     ]
   }
